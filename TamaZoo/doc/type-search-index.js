@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"test","l":"TamabaseTest"},{"p":"main","l":"TamaGordo"},{"p":"test","l":"TamagordoTest"},{"p":"main","l":"Tamagotchi"},{"p":"main","l":"TamaTriste"},{"p":"test","l":"TamatristeTest"},{"p":"main","l":"TamaZoo"},{"p":"main","l":"TamaZooMain"}]

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"main","l":"Carta"},{"p":"main","l":"CartaAltaMain"},{"p":"main","l":"Giocatore"},{"p":"main","l":"Mazzo"},{"p":"main","l":"Carta.SemeFrancese"},{"p":"main","l":"Carta.SemeItaliano"},{"p":"main","l":"Carta.ValoreFrancese"},{"p":"main","l":"Carta.ValoreItaliano"}]
