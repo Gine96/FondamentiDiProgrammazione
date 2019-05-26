@@ -10,7 +10,7 @@ public class Lotto implements Serializable{
 	private int quantita;
 	/**
 	 * @param _titolo - Titolo azionario
-	 * @param _quantita - quantità di titoli posseduti
+	 * @param _quantita - quantita' di titoli posseduti
 	 * */
 	public Lotto(Titolo _titolo, int _quantita) {
 		this.titoloAzionario=_titolo;

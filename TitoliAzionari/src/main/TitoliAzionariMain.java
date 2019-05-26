@@ -24,7 +24,7 @@ public class TitoliAzionariMain {
 
 	public static void main(String[] args) {
 		File file=new File(NOME_FILE);
-		//� pi� facile da gestire il file avendo un solo oggetto da salvare e caricare
+		//e' piu' facile da gestire il file avendo un solo oggetto da salvare e caricare
 		Contenitore contenitore=null;
 		ElencoTitoli titoli=null;
 		Portafoglio portafoglio=null;
@@ -34,7 +34,7 @@ public class TitoliAzionariMain {
 		if (file.exists()) {
 			/*
 			 * qua controlla che il cast funzioni correttamente in quanto GestioneFile.caricaOggetto(file) 
-			 * � di tipo Object
+			 * e' di tipo Object
 			 * */
 			try {
 				contenitore = (Contenitore) GestioneFile.caricaOggetto(file);
