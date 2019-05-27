@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"main","l":"Contenitore"},{"p":"main","l":"ElencoTitoli"},{"p":"main","l":"Lotto"},{"p":"test","l":"LottoTest"},{"p":"main","l":"Portafoglio"},{"p":"test","l":"PortafoglioTest"},{"p":"test","l":"SerialisableTest"},{"p":"main","l":"TitoliAzionariMain"},{"p":"main","l":"Titolo"},{"p":"test","l":"TitoloTest"}]
