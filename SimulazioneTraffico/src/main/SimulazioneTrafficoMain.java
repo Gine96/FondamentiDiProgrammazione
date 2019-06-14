@@ -7,7 +7,7 @@ public class SimulazioneTrafficoMain {
 	private static final String BENVENUTO = "Benvenuto in Simulazione Traffico";
 	private static final String CONTINUA = "Vuoi continuare con la simulazione?";
 	private static final String ARRIVEDERCI = "Arrivederci";
-	private static final String SIMULAZIONE_TERMINATA = "La simulazione è terminata";
+	private static final String SIMULAZIONE_TERMINATA = "La simulazione e' terminata";
 
 	public static void main(String[] args) {
 		System.out.println(BENVENUTO);
