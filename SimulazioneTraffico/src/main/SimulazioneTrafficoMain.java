@@ -3,7 +3,7 @@ package main;
 import utils.IO;
 
 public class SimulazioneTrafficoMain {	
-	
+
 	private static final String BENVENUTO = "Benvenuto in Simulazione Traffico";
 	private static final String CONTINUA = "Vuoi continuare con la simulazione?";
 	private static final String ARRIVEDERCI = "Arrivederci";
@@ -23,6 +23,6 @@ public class SimulazioneTrafficoMain {
 		}
 		System.out.println(SIMULAZIONE_TERMINATA);
 		System.out.println(ARRIVEDERCI);
-		
+
 	}
 }
