@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"it.eliacotticottini.main","l":"Localita"},{"p":"it.eliacotticottini.main","l":"MainCorsaCiclistica"},{"p":"it.eliacotticottini.main","l":"Tappa"}]
